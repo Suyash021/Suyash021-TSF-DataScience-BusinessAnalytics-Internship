@@ -1,5 +1,6 @@
 # **The Sparks Foundation Internship prorgramme**
 
+## **G.R.I.P**
 
 ## **Data Science and Business Analytics**
 
