@@ -8,5 +8,5 @@
 
 **Task 2** - Prediction Using Unsupervised Machine Learning Algorithm 
 
-**Task 3** - Exploritary Data Analysis Retail
+**Task 3** - Exploratory Data Analysis Retail
                                                       
