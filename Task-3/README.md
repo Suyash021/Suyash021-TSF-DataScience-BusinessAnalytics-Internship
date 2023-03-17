@@ -1,7 +1,8 @@
-The Sparks Foundation Internship
-#G.R.I.P
+# **The Sparks Foundation Internship**
 
-#Submitted By- Suyash Mejari
+## **G.R.I.P**
+
+### **Submitted By** - Suyash Mejari
 
 Programming Language Used - Python
 
